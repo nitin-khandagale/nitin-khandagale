@@ -1,0 +1,4 @@
+- 👋 Hi, I am Nitin Khandagale
+- 👀 I’m interested in Data Analytics and Machine Learning
+- 🌱 I’m currently looking for opportunities in Data Analytics 
+- 📫 You can reach me at nitinkhandagale3@gmail.com
