@@ -1,4 +1,3 @@
 - 👋 Hi, I am Nitin Khandagale
 - 👀 Self taught programmer. Always curious and eager to learn new things.
-- 🌱 looking for opportunities in Data Analytics 
 - 📫 reach me at nitinkhandagale3@gmail.com
